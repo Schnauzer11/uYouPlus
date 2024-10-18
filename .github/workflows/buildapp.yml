@@ -18,7 +18,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
-        default: ""
+        default: "https://p20.zdusercontent.com/attachment/66681/1u4kyYJnjA8HZTPMXOGBhRk4Q?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..MrL5tNOwpxsxWeD_-Tl6SQ.q3by8g21fTn9Ceoh9kFUH7umIaAXo73t5hUr231T2mrhpzLJwcyWvvw0YoLHMgn02F8OloDOmUArDWlNGkzKuiuaWZqUNHOSOKJVcI493qHWrQZbz8NHaTMCHPdXCjb0-cn_b3Zio0nA4LiUMtRKFEeIHAgomUQOwdxvLq3eiOr0YNNN8ZxcAVg1w1idH5RXnFky4ftgAV8Jz7HzUlC9rVj7J1sNUFfEMskHnYghafUptikfzztczHpQN1Z9q-QIqL30rJILanEGwR2jYhqPC-xJWyCdcxvu-GAZtntfbW4.N6zacZ1POjT-QUVFzNsnDA"
         required: true
         type: string
       bundle_id:
